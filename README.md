@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syaifullah Al Aziz</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h3 align="center"></h3>
 
 <br>
 
