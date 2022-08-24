@@ -24,7 +24,7 @@
 <p align="left">
   <a href="https://www.facebook.com/syaifullahal.aziz.3/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
+      alt="Syaifullah Al Aziz" height="30" width="40" /></a>
   <a href="https://www.instagram.com/syaifullahalaziz_27/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Syaifullah Al Aziz" height="30" width="40" /></a>
