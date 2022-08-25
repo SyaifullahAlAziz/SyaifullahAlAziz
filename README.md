@@ -42,12 +42,10 @@
       alt="mysql" width="40" height="40" /> </a>
       <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img
       src="https://www.php.net/images/logos/new-php-logo.svg"
-      alt="php" width="40" height="40" /> </a> 
-      
+      alt="php" width="40" height="40" /> </a>   
       <a href="https://codeigniter.com/" target="_blank" rel="noreferrer"> <img
       src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"
       alt="codeigniter" width="40" height="40" /> </a> 
-      
       <a href="https://laravel.com/"_blank" rel="noreferrer"> <img
       src="https://laravelnews.imgix.net/images/laravel-featured.png?ixlib=php-3.3.1"
       alt="laravel" width="40" height="40" /> </a> 
