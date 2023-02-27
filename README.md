@@ -47,7 +47,7 @@
       src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"
       alt="codeigniter" width="40" height="40" /> </a> 
       <a href="https://laravel.com/"_blank" rel="noreferrer"> <img
-      src="https://laravelnews.imgix.net/images/laravel-featured.png?ixlib=php-3.3.1"
+      src="https://laravel.com/img/logotype.min.svg"
       alt="laravel" width="40" height="40" /> </a> 
 
  </p>
