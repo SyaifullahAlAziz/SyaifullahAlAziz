@@ -14,8 +14,6 @@
 
 - 🌱 I’m currently learning Web Programming languages
 
-- 📫 How to reach me **syaifullahalaziz@gmail.com**
-
 <!-- - ⚡ Fun fact :- . -->
 
 <br>
