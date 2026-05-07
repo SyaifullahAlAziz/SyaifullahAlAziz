@@ -42,7 +42,7 @@
       <img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies-thumbnail.png"
       alt="bootstrap" width="40" height="40" /> </a> 
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png"
+      <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png"
       alt="bootstrap" width="40" height="40" /> </a> 
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
