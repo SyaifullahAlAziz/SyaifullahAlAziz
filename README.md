@@ -53,9 +53,15 @@
       <a href="https://codeigniter.com/" target="_blank" rel="noreferrer"> <img
       src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"
       alt="codeigniter" width="40" height="40" /> </a> 
-      <a href="https://laravel.com/"_blank" rel="noreferrer"> <img
-      src="https://laravel.com/img/logomark.min.svg"
+      <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://laravel.com/img/logomark.min.svg"
       alt="laravel" width="40" height="40" /> </a> 
+      <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"
+      alt="react" width="40" height="40" /> </a>
+      <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://brandlogovector.com/wp-content/uploads/2021/12/Vue.js-Logo-Small.png"
+      alt="vue" width="40" height="40" /> </a> 
 
  </p>
 
